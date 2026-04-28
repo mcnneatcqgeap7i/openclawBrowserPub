@@ -126,7 +126,7 @@ openai-router/kimi2.6-thinking
 
 | 平台                            | 状态          | 模型                                                 |
 | ------------------------------- | ------------- | ---------------------------------------------------- |
-| DeepSeek                        | ✅ **已测试** | "deepseek-v4-flash", "deepseek-v4-pro", "deepseek-v4-flash-thinking", "deepseek-v4-pro-thinking"|
+| DeepSeek                        | ✅ **已测试** | "deepseek-v4-flash", "deepseek-v4-pro"<br>, "deepseek-v4-flash-thinking", "deepseek-v4-pro-thinking"|
 | 小米 MiMo (Xiaomi MiMo)         | ✅ **已测试** | "mimo-v2.5-pro", "mimo-v2.5" |
 | GLM Web (智谱清言)              | ✅ **已测试** | "glm-5" |
 | Kimi                            | ✅ **已测试** | "kimi2.6", "kimi2.6-thinking"|
