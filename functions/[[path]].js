@@ -1,5 +1,4 @@
 // functions/[[path]].js
-
 const GITHUB_REPO = 'mcnneatcqgeap7i/openclawBrowserPub';
 
 export async function onRequest(context) {
