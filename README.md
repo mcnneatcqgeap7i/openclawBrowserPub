@@ -23,7 +23,8 @@
 
 ## 使用教程
 
-<img width="1142" height="991" alt="image" src="https://github.com/user-attachments/assets/5f9eda2a-88be-414e-ae99-d4992b5cb7d3" />
+<img width="1134" height="989" alt="image" src="https://github.com/user-attachments/assets/2b4a3e33-7a10-4841-8a27-040457c69145" />
+
 
 
 
