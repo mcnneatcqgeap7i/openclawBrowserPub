@@ -23,7 +23,8 @@
 
 ## 使用教程
 
-<img width="945" height="1029" alt="image" src="https://github.com/user-attachments/assets/b37cb30c-8dab-4854-8877-db9409b401a7" />
+<img width="1142" height="991" alt="image" src="https://github.com/user-attachments/assets/5f9eda2a-88be-414e-ae99-d4992b5cb7d3" />
+
 
 
 ## 支持的平台
