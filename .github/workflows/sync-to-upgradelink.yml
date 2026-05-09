@@ -16,7 +16,7 @@ on:
 jobs:
   upload:
     permissions:
-       contents: write
+       contents: read
     runs-on: ubuntu-latest
     steps:
       - name: Debug Secrets
