@@ -14,7 +14,7 @@ on:
         default: '发现新版本，是否立即更新？'
 
 jobs:
-  upload:
+  upgradeLink-upload:
     permissions:
        contents: read
     runs-on: ubuntu-latest
