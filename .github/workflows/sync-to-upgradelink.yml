@@ -15,23 +15,25 @@ on:
 
 jobs:
   upgradeLink-upload:
-    permissions:
-       contents: read
     runs-on: ubuntu-latest
     steps:
-      - name: Debug Secrets
+      - name: Direct API Test (Debug)
         run: |
-          echo "AccessKey length: ${#ACCESS_KEY}"   # 仅打印长度，不暴露内容
-          echo "ElectronKey length: ${#ELECTRON_KEY}"
-        env:
-          ACCESS_KEY: ${{ secrets.UPGRADE_LINK_ACCESS_KEY }}
-          ELECTRON_KEY: ${{ secrets.UPGRADE_LINK_ELECTRON_KEY }}
+          echo "Testing UpgradeLink API credentials..."
+          HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
+            -H "x-api-key: ${{ secrets.UPGRADE_LINK_ACCESS_KEY }}" \
+            "https://api.upgrade.toolsetlink.com/v1/electron/github-aciton/upload?electronKey=${{ secrets.UPGRADE_LINK_ELECTRON_KEY }}&githubToken=${{ secrets.GITHUB_TOKEN }}")
+          echo "API returned HTTP $HTTP_CODE"
+          if [ "$HTTP_CODE" -eq 401 ]; then
+            echo "❌ 401 Unauthorized: 请检查 UPGRADE_LINK_ACCESS_KEY 和 UPGRADE_LINK_ELECTRON_KEY 是否正确。"
+            exit 1
+          fi
+
       - name: Send request to UpgradeLink
-        uses: toolsetlink/upgradelink-action-electron@v1.0.1   # 使用真实存在的版本标签
+        uses: toolsetlink/upgradelink-action-electron@v1.0.1
         with:
           source-url: 'https://github.com/${{ github.repository }}/releases/download/${{ inputs.version }}'
           access-key: ${{ secrets.UPGRADE_LINK_ACCESS_KEY }}
           electron-key: ${{ secrets.UPGRADE_LINK_ELECTRON_KEY }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          version: ${{ inputs.version }}
           prompt-upgrade-content: ${{ inputs.prompt }}
