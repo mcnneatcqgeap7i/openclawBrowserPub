@@ -17,6 +17,13 @@ jobs:
   upload:
     runs-on: ubuntu-latest
     steps:
+      - name: Debug Secrets
+        run: |
+          echo "AccessKey length: ${#ACCESS_KEY}"   # 仅打印长度，不暴露内容
+          echo "ElectronKey length: ${#ELECTRON_KEY}"
+        env:
+          ACCESS_KEY: ${{ secrets.UPGRADE_LINK_ACCESS_KEY }}
+          ELECTRON_KEY: ${{ secrets.UPGRADE_LINK_ELECTRON_KEY }}
       - name: Send request to UpgradeLink
         uses: toolsetlink/upgradelink-action-electron@v1.0.1   # 使用真实存在的版本标签
         with:
