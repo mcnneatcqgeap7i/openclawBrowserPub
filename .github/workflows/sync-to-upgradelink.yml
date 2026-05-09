@@ -4,17 +4,25 @@ on:
   workflow_dispatch:
     inputs:
       version:
-        description: '要同步的版本号 (例如 v1.0.0)'
+        description: '版本号 (如 v1.0.0)'
         required: true
         type: string
+      prompt:
+        description: '升级提示内容'
+        required: false
+        type: string
+        default: '发现新版本，是否立即更新？'
 
 jobs:
-  sync:
+  upload:
     runs-on: ubuntu-latest
     steps:
-      - name: Sync to UpgradeLink
-        uses: toolsetlink/upgradelink-action-electron@latest
+      - name: Send request to UpgradeLink
+        uses: toolsetlink/upgradelink-action-electron@v1.0.1   # 使用真实存在的版本标签
         with:
           source-url: 'https://github.com/${{ github.repository }}/releases/download/${{ inputs.version }}'
-          access-key: ${{ secrets.UPGRADELINK_ACCESS_KEY }}
-          electron-key: ${{ secrets.UPGRADELINK_ELECTRON_KEY }}
+          access-key: ${{ secrets.UPGRADE_LINK_ACCESS_KEY }}
+          electron-key: ${{ secrets.UPGRADE_LINK_ELECTRON_KEY }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          version: ${{ inputs.version }}
+          prompt-upgrade-content: ${{ inputs.prompt }}
