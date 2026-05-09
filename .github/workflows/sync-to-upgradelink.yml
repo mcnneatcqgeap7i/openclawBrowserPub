@@ -1,0 +1,20 @@
+name: Sync Release to UpgradeLink
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: '要同步的版本号 (例如 v1.0.0)'
+        required: true
+        type: string
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync to UpgradeLink
+        uses: toolsetlink/upgradelink-action-electron@latest
+        with:
+          source-url: 'https://github.com/${{ github.repository }}/releases/download/${{ inputs.version }}'
+          access-key: ${{ secrets.UPGRADELINK_ACCESS_KEY }}
+          electron-key: ${{ secrets.UPGRADELINK_ELECTRON_KEY }}
