@@ -1,6 +1,4 @@
 # 0 token uses OpenClaw，让您 0 token 养龙虾
-<img width="300" height="300" alt="logo-300" src="https://github.com/user-attachments/assets/3da9fa16-ffae-4db6-a591-a7423bc5c268" />
-
 # OpenClaw Browser，OpenClaw浏览器，养龙虾专用浏览器
 <img width="400" height="400" alt="logo" src="https://github.com/user-attachments/assets/5da89977-1172-4e14-ab11-9a877a2d35ba" />
 
