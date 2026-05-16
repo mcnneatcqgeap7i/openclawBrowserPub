@@ -1,5 +1,5 @@
 # 0 token uses OpenClaw，让您 0 token 养龙虾
-# OpenClaw Browser，OpenClaw浏览器，养龙虾专用浏览器
+# One click full-automatic installation of OpenClaw (automatic detection environment, automatic loading of models, automatic configuration to the browser. There is no need to see the tutorial and configure environment variables).一键全自动安装OpenClaw（自动检测环境，自动加载模型，自动配置到浏览器。不需要看教程，不需要配环境变量）。
 <img width="400" height="400" alt="logo" src="https://github.com/user-attachments/assets/5da89977-1172-4e14-ab11-9a877a2d35ba" />
 
 ## 使用截图
@@ -23,7 +23,7 @@
 
 ## 使用教程
 
-<img width="1134" height="989" alt="image" src="https://github.com/user-attachments/assets/2b4a3e33-7a10-4841-8a27-040457c69145" />
+<img width="1047" height="1021" alt="image" src="https://github.com/user-attachments/assets/cadf6ff1-3235-44bc-b06f-2222922916bf" />
 
 
 
