@@ -1,5 +1,11 @@
-# 0 token uses OpenClaw，让您 0 token 养龙虾
-# One click full-automatic installation of OpenClaw (automatic detection environment, automatic loading of models, automatic configuration to the browser. There is no need to see the tutorial and configure environment variables).一键全自动安装OpenClaw（自动检测环境，自动加载模型，自动配置到浏览器。不需要看教程，不需要配环境变量）。
+### OpenClaw browser: 0 Token lobster! Installation free, configuration free, double click ready to use.
+### A rent free server can be inserted into a USB flash drive and used anytime, anywhere.
+### It has full cloud capabilities and local control.
+### All your training results are saved in USB flash drive. Pull it out and take it away, plug it into any computer, and lobster will bring your habit online immediately
+### OpenClaw 浏览器：0 Token 养龙虾！免安装、免配置，双击 即用。
+### 免 租服务器，装进 U 盘，随时随地，插上就用。
+### 既有云端全能力，更有本地操控权。
+### 你的训练成果，全部存进U盘。拔出即带走，插入任何电脑，龙虾立刻带着你的习惯上线
 <img width="400" height="400" alt="logo" src="https://github.com/user-attachments/assets/5da89977-1172-4e14-ab11-9a877a2d35ba" />
 
 ## 使用截图
