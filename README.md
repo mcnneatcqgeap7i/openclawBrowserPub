@@ -29,7 +29,8 @@
 
 ## 使用教程
 
-<img width="1047" height="1021" alt="image" src="https://github.com/user-attachments/assets/cadf6ff1-3235-44bc-b06f-2222922916bf" />
+<img width="1361" height="980" alt="image" src="https://github.com/user-attachments/assets/bdecd538-1bad-4c57-b9f4-6763625f8084" />
+
 
 
 
