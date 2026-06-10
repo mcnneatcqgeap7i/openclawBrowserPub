@@ -2,7 +2,7 @@
 ### A rent free server can be inserted into a USB flash drive and used anytime, anywhere.
 ### It has full cloud capabilities and local control.
 ### All your training results are saved in USB flash drive. Pull it out and take it away, plug it into any computer, and lobster will bring your habit online immediately
-### OpenClaw 浏览器：0 Token 养龙虾！免安装、免配置，双击 即用。
+### OpenClaw 浏览器：0 Token 养龙虾（OpenClaw,Hermes,Qwenpaw）！免安装、免配置，双击 即用。
 ### 免 租服务器，装进 U 盘，随时随地，插上就用。
 ### 既有云端全能力，更有本地操控权。
 ### 你的训练成果，全部存进U盘。拔出即带走，插入任何电脑，龙虾立刻带着你的习惯上线
