@@ -35,8 +35,18 @@
 
 
 
-## 支持的平台
+# 详细介绍
+<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_01" src="https://github.com/user-attachments/assets/73b3f59c-aad5-4eb4-a613-95b80688e736" />
+<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_02" src="https://github.com/user-attachments/assets/2508d14a-ac5b-4e7a-95c2-bb05920c2116" />
+<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_03" src="https://github.com/user-attachments/assets/c58e3ee4-aa72-4b76-b774-512a65b68dbd" />
+<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_04" src="https://github.com/user-attachments/assets/4b7c5735-189d-4fff-86ed-0ee8de76eabd" />
+<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_05" src="https://github.com/user-attachments/assets/b739daf5-ca7a-4f2b-896b-e4c2a281e902" />
+<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_06" src="https://github.com/user-attachments/assets/f94543f5-6c56-4d82-a914-31a20d2032bb" />
+<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_07" src="https://github.com/user-attachments/assets/6c9c320a-b412-4282-9a1e-868231685fea" />
+<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_08" src="https://github.com/user-attachments/assets/ca277baa-bb32-4d31-a25f-50f54a0cf4f6" />
+<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_09" src="https://github.com/user-attachments/assets/c552e9d2-a173-46d5-934f-5d0f467502d6" />
 
+## 支持平台
 | 平台                            | 状态          | 模型                                                 |
 | ------------------------------- | ------------- | ---------------------------------------------------- |
 | DeepSeek                        | ✅ **已测试** | "deepseek-v4-flash", "deepseek-v4-pro"<br>, "deepseek-v4-flash-thinking", "deepseek-v4-pro-thinking"|
