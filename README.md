@@ -36,15 +36,17 @@
 
 
 # 详细介绍
-<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_01" src="https://github.com/user-attachments/assets/73b3f59c-aad5-4eb4-a613-95b80688e736" />
-<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_02" src="https://github.com/user-attachments/assets/2508d14a-ac5b-4e7a-95c2-bb05920c2116" />
-<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_03" src="https://github.com/user-attachments/assets/c58e3ee4-aa72-4b76-b774-512a65b68dbd" />
-<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_04" src="https://github.com/user-attachments/assets/4b7c5735-189d-4fff-86ed-0ee8de76eabd" />
-<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_05" src="https://github.com/user-attachments/assets/b739daf5-ca7a-4f2b-896b-e4c2a281e902" />
-<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_06" src="https://github.com/user-attachments/assets/f94543f5-6c56-4d82-a914-31a20d2032bb" />
-<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_07" src="https://github.com/user-attachments/assets/6c9c320a-b412-4282-9a1e-868231685fea" />
-<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_08" src="https://github.com/user-attachments/assets/ca277baa-bb32-4d31-a25f-50f54a0cf4f6" />
-<img width="3840" height="2160" alt="OpenClaw 浏览器 · 产品宣传PPT_09" src="https://github.com/user-attachments/assets/c552e9d2-a173-46d5-934f-5d0f467502d6" />
+<img width="1606" height="841" alt="image" src="https://github.com/user-attachments/assets/fb5e188b-63ea-492c-a58f-e42d78c0eca1" />
+<img width="1606" height="841" alt="image" src="https://github.com/user-attachments/assets/585cf956-170a-4e00-94d6-f9241cc7c40d" />
+<img width="1606" height="841" alt="image" src="https://github.com/user-attachments/assets/8bf54b4b-2f95-4200-8e66-4dbbc078d08d" />
+<img width="1606" height="841" alt="image" src="https://github.com/user-attachments/assets/2e0c54f0-407b-475a-913f-ef12acb152f1" />
+<img width="1606" height="841" alt="image" src="https://github.com/user-attachments/assets/6f721464-74e0-48a4-bfa3-8293dc75149a" />
+<img width="1606" height="841" alt="image" src="https://github.com/user-attachments/assets/a56a455d-8cf0-4c52-b6f1-fc5a04f6605e" />
+<img width="1606" height="841" alt="image" src="https://github.com/user-attachments/assets/8a86ec15-d358-4af6-983e-f8cbacd11540" />
+<img width="1606" height="841" alt="image" src="https://github.com/user-attachments/assets/441b8cd4-6c36-4fda-8fb6-1ba6abc4a140" />
+<img width="1606" height="841" alt="image" src="https://github.com/user-attachments/assets/8c5a73ff-8532-4de9-93bd-f7f77f081ce0" />
+
+
 
 ## 支持平台
 | 平台                            | 状态          | 模型                                                 |
