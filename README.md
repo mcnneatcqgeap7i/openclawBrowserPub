@@ -1,14 +1,14 @@
 ### 龙虾浏览器（OpenClawBrowser）：是一款AI工具，提供AI智能体（OpenClaw）的运行环境与AI智能体调用大模型的代理环境。
 ### 主要功能：
 ### 1、让OpenClaw使用简单化，便携化
-### 2、通过技术突破复用各大模型厂商的免费入口，实现 0 Token 调用大模型。
+### 2、通过技术突破复用各大模型厂商的免费入口，实现 0费用 调用大模型。
 ---
 ### OpenClawBrowser: 0 Token lobster! Installation free, configuration free, double click ready to use.
 ### A rent free server can be inserted into a USB flash drive and used anytime, anywhere.
 ### It has full cloud capabilities and local control.
 ### All your training results are saved in USB flash drive. Pull it out and take it away, plug it into any computer, and lobster will bring your habit online immediately
 ---
-### 龙虾浏览器：0 Token 养虾，养马，养一切（OpenClaw,Hermes,Qwenpaw）！免安装、免配置，双击 即用。
+### 龙虾浏览器：免费 养虾，养马，养一切（OpenClaw,Hermes,Qwenpaw）！免安装、免配置，双击 即用。
 ### 免 租服务器，装进 U 盘，随时随地，插上就用。
 ### 既有云端全能力，更有本地操控权。
 ### 你的训练成果，全部存进U盘。拔出即带走，插入任何电脑，龙虾立刻带着你的习惯上线
@@ -30,7 +30,7 @@
 | ------------------ | --------------- |
 | 需要购买 API Token | **登录web版就行**    |
 | 按收发消息的 Token 计费     | 不产生费用      |
-| 速度慢（每次对话都发送会话中的所有消息），**特别耗 Token**  | 速度快（只发送最后的消息），**0 Token**  |
+| 速度慢（每次对话都发送会话中的所有消息），**特别耗 Token**  | 速度快（只发送最后的消息），**0 Token费**  |
 
 > 建议： 训练时 用OpenClaw浏览器 方式 节约token，正式使用时请使用 api token 方式
 ---
