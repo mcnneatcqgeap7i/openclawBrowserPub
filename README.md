@@ -27,7 +27,7 @@
 
 ---
 ## 界面截图
-<img width="1329" height="497" alt="95407033-e58c-40e2-baf7-65e2ff7fdae2" src="https://github.com/user-attachments/assets/41e85227-3552-4ea6-be39-3a7895a0b97a" />
+<img width="1295" height="1036" alt="image" src="https://github.com/user-attachments/assets/518601be-f20e-44a1-b687-cd587d6bd0f6" />
 
 ---
 ## 为什么选择 OpenClaw 浏览器？
@@ -36,13 +36,6 @@
 | ------------------ | --------------- |
 | 需要购买 API Token | **免 Token 费**    |
 | 安装配置复杂| 使用简单、双击既用 |
-
----
-
-## 使用教程
-
-<img width="1295" height="971" alt="image" src="https://github.com/user-attachments/assets/5eb720d5-ec07-4f2c-8378-4155a99b7543" />
-
 
 ---
 
